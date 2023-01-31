@@ -17,3 +17,5 @@ Q/0.
 I/i/1.
 S/5.
 ```
+
+In other words, what Cisco would have done to their serial numbers if they hadn't been cretins.
