@@ -5,6 +5,13 @@ This will become something in the future, but for now.
 
 Allowed characters: anything unambiguous in either case.
 
-`abcdefghjkmnprtuvwxyz23456789`
+`acdefghjkmnprtuvwxyz2345679`
 
 Case-insensitive.
+
+B/8.
+l/1.
+0/O.
+Q/0.
+I/i/1.
+S/5.
