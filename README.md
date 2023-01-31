@@ -9,9 +9,11 @@ Allowed characters: anything unambiguous in either case.
 
 Case-insensitive.
 
+```
 B/8.
 l/1.
 0/O.
 Q/0.
 I/i/1.
 S/5.
+```
